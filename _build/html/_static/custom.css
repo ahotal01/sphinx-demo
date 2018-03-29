@@ -1,11 +1,11 @@
-html {
+/*html {
     position: relative;
     min-height: 100%;
 }
 
 body {
     line-height: 1.9em;
-}
+}*/
 
 code {
     color: #f47753;
@@ -42,7 +42,7 @@ th, td {
 main {
     margin-top: 65px;
 }
-
+/*
 section {
     margin-bottom: 120px;
 }
@@ -75,7 +75,7 @@ h2, h3, h4, h5, h6 {
 h5, h6 {
     font-size: 17px;
 }
-
+*/
 #content img {
     max-width: 100%;
     box-shadow: 0 0 5px 0 #ddd;
@@ -84,7 +84,7 @@ h5, h6 {
     border-radius: 4px;
     padding: 40px;
 }
-
+/*
 header.navbar {
     opacity: 0.9;
 }
@@ -97,7 +97,7 @@ header.navbar {
     font-weight: 300;
     margin-left: 10px;
 }
-
+*/
 aside {
     padding: 2em;
     padding-top: 1em;
